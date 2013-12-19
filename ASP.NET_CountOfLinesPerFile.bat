@@ -1,5 +1,4 @@
 REM Developed by Deepak Mourya, Information Security Consultant
-REM Copy and paste it into notepad and save it with "ASP.NET_CountOfLinesPerFile.bat" name.
 @echo off
 cls
 echo.
